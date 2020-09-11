@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Scan Flash Drive using ESET",
+      "attention": false,
+      "tech": "Topeng Rivera",
+      "date": "2020-09-11T13:27:32.873Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed Flash Drive",
+      "attention": true,
+      "tech": "Vince Obrado",
+      "date": "2020-09-11T12:09:16.261Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Vince",
+      "lastName": "Obrado"
+    },
+    {
+      "id": 2,
+      "firstName": "Topeng",
+      "lastName": "Rivera"
+    },
+    {
+      "firstName": "Alvin",
+      "lastName": "Madjus",
+      "id": 4
+    }
+  ]
+}
